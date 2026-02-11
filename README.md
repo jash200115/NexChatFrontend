@@ -26,6 +26,8 @@ https://github.com/jash200115/MyDiscordBackend
 - 🎨 Discord-inspired modern UI (Tailwind CSS)
 - 🌙 Dark themed interface
 - 🚀 Fully deployed frontend & backend on Render
+<img width="1131" height="834" alt="Screenshot 2026-02-12 003003" src="https://github.com/user-attachments/assets/ad090954-b09e-4e67-a7c1-9dd87736d14a" />
+<img width="958" height="605" alt="Screenshot 2026-02-12 003928" src="https://github.com/user-attachments/assets/662801d9-aab3-4e2c-8dd3-4b49dfbf0283" />
 
 ---
 
