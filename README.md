@@ -12,6 +12,9 @@ https://yournexdiscord.onrender.com/
 **Backend API:**  
 https://nexchat-77ip.onrender.com/
 
+**Backend Repo:**
+https://github.com/jash200115/MyDiscordBackend
+
 ---
 
 ## ✨ Features
